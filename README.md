@@ -6,7 +6,7 @@
 ```
 git clone <仓库地址>
 cd bill
-# 创建两个新文件
+# 创建两个新目录
 mkdir csv qit 
 npm install
 
@@ -17,7 +17,7 @@ npm run alipay
 npm run weixin
 ```
 
-- 把原始文件导入到`csv`文件夹内
-- 转换后的文件在`qit`文件夹，enjoy~
+- 把原始文件导入到 `csv` 文件夹内
+- 转换后的文件在 `qit` 文件夹内，enjoy~
 
 感谢原作！感恩开源！
